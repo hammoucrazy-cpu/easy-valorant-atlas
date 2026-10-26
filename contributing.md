@@ -158,3 +158,5 @@ and a missing Visual C++ runtime.
 ---
 
 *Valorant · Updated 2026-10-26 · Shared under the MIT License*
+
+<!-- updated 2026-10-26 -->
